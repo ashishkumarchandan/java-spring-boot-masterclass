@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.platform</groupId>
+    <artifactId>java-course-aggregator</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>18-Week Java Course Aggregator</name>
+    <description>Aggregator POM to build and manage all sub-modules for the Java course</description>
+
+    <modules>
+        <module>week1/01_core_container</module>
+        <module>week1/02_bean_mechanics</module>
+        <module>week1/03_bean_lifecycle</module>
+        <module>week1/04_bean_scopes</module>
+        <module>week1/05_coupling_and_ioc</module>
+        <module>week1/06_dependency_injection_types</module>
+        <module>week1/07_dependency_resolution</module>
+        <module>week1/08_advanced_injection</module>
+        <module>week1/09_framework_vs_boot</module>
+        <module>week1/10_maven_ecosystem</module>
+        <module>week1/11_autoconfigure_conditional</module>
+        <module>week1/12_springboot_bootstrap</module>
+    </modules>
+</project>
