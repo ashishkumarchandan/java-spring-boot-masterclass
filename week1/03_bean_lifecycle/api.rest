@@ -1,0 +1,7 @@
+@host = localhost
+@port = 8083
+@baseUrl = http://{{host}}:{{port}}
+
+### Check Lifecycle Status
+GET {{baseUrl}}/api/demo
+Accept: application/json
