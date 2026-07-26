@@ -25,5 +25,8 @@
         <module>week1/10_maven_ecosystem</module>
         <module>week1/11_autoconfigure_conditional</module>
         <module>week1/12_springboot_bootstrap</module>
+
+        <!-- Week 2: Building the Web Application -->
+        <module>week2/01_mvc_architecture</module>
     </modules>
 </project>
