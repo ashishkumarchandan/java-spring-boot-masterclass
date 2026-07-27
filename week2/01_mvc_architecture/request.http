@@ -1,0 +1,17 @@
+### 1. GET Request (Receive JSON response from server)
+# Click "Send Request" button directly above line 4
+GET http://localhost:8080/api/mvc/trace
+Accept: application/json
+
+###
+
+### 2. POST Request (Send JSON payload to server & receive response)
+# Click "Send Request" button directly above line 10
+POST http://localhost:8080/api/mvc/echo
+Content-Type: application/json
+
+{
+  "name": "Ashish",
+  "topic": "Spring Boot REST API",
+  "status": "Learning"
+}

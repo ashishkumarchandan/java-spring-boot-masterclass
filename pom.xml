@@ -28,5 +28,9 @@
 
         <!-- Week 2: Building the Web Application -->
         <module>week2/01_mvc_architecture</module>
+        <module>week2/02_presentation_layer</module>
+        <module>week2/03_persistence_layer_jpa</module>
+        <module>week2/04_service_layer</module>
+        <module>week2/05_input_validation</module>
     </modules>
 </project>
