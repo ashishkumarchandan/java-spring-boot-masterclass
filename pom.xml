@@ -32,5 +32,6 @@
         <module>week2/03_persistence_layer_jpa</module>
         <module>week2/04_service_layer</module>
         <module>week2/05_input_validation</module>
+        <module>week2/06_exception_handling</module>
     </modules>
 </project>
