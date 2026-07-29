@@ -34,5 +34,8 @@
         <module>week2/05_input_validation</module>
         <module>week2/06_exception_handling</module>
         <module>week2/07_response_transformation</module>
+
+        <!-- Week 3: Database Persistence, Hibernate & Spring Data JPA -->
+        <module>week3/01_installing_mysql_and_dbeaver</module>
     </modules>
 </project>

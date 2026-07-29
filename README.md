@@ -12,7 +12,7 @@ This table tracks the syllabus and my learning progress week-by-week.
 | :--- | :--- | :--- | :---: | :--- |
 | **Week 1** | **Spring Core & Spring Boot Bootstrap** | IoC Container, Bean Lifecycle, Scopes, Dependency Injection, Maven, Autoconfiguration | 🟢 Completed | [Go to Week 1](./week1/) (12 Sub-projects) |
 | **Week 2** | **Building the Web Application** | MVC Architecture, Presentation Layer, JPA Persistence, Service Layer, Validation, Exception Handling, Response Envelopes | 🟢 Completed | [Go to Week 2](./week2/) (7 Sub-projects) |
-| **Week 3** | *REST APIs & Validation* | Controller advice, Validation annotations, DTO pattern, Content negotiation | ⚪ Planned | *TBD* |
+| **Week 3** | **Database Persistence, Hibernate & JPA** | MySQL, ORM, Spring Data JPA, Pagination, Entity Lifecycles & Relationships, Cloud PostgreSQL, JPQL, Transactions | 🟢 Active | [Go to Week 3](./week3/) (9 Sub-projects) |
 | **Week 4** | *Spring Security & OAuth2* | Authentication, Authorization, JWT, Role-Based Access Control | ⚪ Planned | *TBD* |
 | **Week 5** | *Testing (Unit, Integration, Slice)* | JUnit 5, Mockito, `@SpringBootTest`, `@WebMvcTest`, Testcontainers | ⚪ Planned | *TBD* |
 | **Week 6** | *Microservices: Service Registry* | Spring Cloud Netflix Eureka, Service Discovery, Load Balancing | ⚪ Planned | *TBD* |
